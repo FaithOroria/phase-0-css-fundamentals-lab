@@ -3,3 +3,28 @@ body {
   height: 100%;
   margin: 0;
 }
+#main-headder {
+  text-align: centrer;
+}
+img {
+  display: block;
+  margin: 0 outo;
+}
+.nav a {
+  padding: 10x;
+  background-color: grey;
+}
+caption {
+  font-size: smaller;
+  text-align: center;
+}
+#featured-prorperty p {
+  width: 800px;
+  margin: 20px;
+  text-align: center;
+}
+.bottom-divs {
+  background-color: lightblue;
+  width: 25%;
+  text-align: center;
+}
